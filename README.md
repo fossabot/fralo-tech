@@ -1,4 +1,6 @@
 # FraloTech
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvedant-pandey%2Ffralo-tech.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvedant-pandey%2Ffralo-tech?ref=badge_shield)
+
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
@@ -15,3 +17,7 @@ Run `npx nx connect-to-nx-cloud` to enable [remote caching](https://nx.app) and 
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvedant-pandey%2Ffralo-tech.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvedant-pandey%2Ffralo-tech?ref=badge_large)
